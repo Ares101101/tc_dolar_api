@@ -1,0 +1,4252 @@
+[
+  {
+      "fecPublica": "01/01/2023",
+      "valTipo": "3.808",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "01/01/2023",
+      "valTipo": "3.820",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "02/01/2023",
+      "valTipo": "3.808",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "02/01/2023",
+      "valTipo": "3.820",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "04/01/2023",
+      "valTipo": "3.812",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "04/01/2023",
+      "valTipo": "3.823",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "05/01/2023",
+      "valTipo": "3.822",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "05/01/2023",
+      "valTipo": "3.827",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "06/01/2023",
+      "valTipo": "3.824",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "06/01/2023",
+      "valTipo": "3.830",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "07/01/2023",
+      "valTipo": "3.800",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "07/01/2023",
+      "valTipo": "3.806",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "08/01/2023",
+      "valTipo": "3.800",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "08/01/2023",
+      "valTipo": "3.806",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "09/01/2023",
+      "valTipo": "3.800",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "09/01/2023",
+      "valTipo": "3.806",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "10/01/2023",
+      "valTipo": "3.792",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "10/01/2023",
+      "valTipo": "3.803",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "11/01/2023",
+      "valTipo": "3.802",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "11/01/2023",
+      "valTipo": "3.806",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "12/01/2023",
+      "valTipo": "3.782",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "12/01/2023",
+      "valTipo": "3.783",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "13/01/2023",
+      "valTipo": "3.779",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "13/01/2023",
+      "valTipo": "3.784",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "14/01/2023",
+      "valTipo": "3.802",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "14/01/2023",
+      "valTipo": "3.806",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "15/01/2023",
+      "valTipo": "3.802",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "15/01/2023",
+      "valTipo": "3.806",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "16/01/2023",
+      "valTipo": "3.802",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "16/01/2023",
+      "valTipo": "3.806",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "17/01/2023",
+      "valTipo": "3.815",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "17/01/2023",
+      "valTipo": "3.822",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "18/01/2023",
+      "valTipo": "3.837",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "18/01/2023",
+      "valTipo": "3.842",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "19/01/2023",
+      "valTipo": "3.829",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "19/01/2023",
+      "valTipo": "3.836",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "20/01/2023",
+      "valTipo": "3.857",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "20/01/2023",
+      "valTipo": "3.861",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "21/01/2023",
+      "valTipo": "3.852",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "21/01/2023",
+      "valTipo": "3.859",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "22/01/2023",
+      "valTipo": "3.852",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "22/01/2023",
+      "valTipo": "3.859",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "23/01/2023",
+      "valTipo": "3.852",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "23/01/2023",
+      "valTipo": "3.859",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "24/01/2023",
+      "valTipo": "3.866",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "24/01/2023",
+      "valTipo": "3.873",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "25/01/2023",
+      "valTipo": "3.880",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "25/01/2023",
+      "valTipo": "3.885",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "26/01/2023",
+      "valTipo": "3.892",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "26/01/2023",
+      "valTipo": "3.900",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "27/01/2023",
+      "valTipo": "3.861",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "27/01/2023",
+      "valTipo": "3.867",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "28/01/2023",
+      "valTipo": "3.824",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "28/01/2023",
+      "valTipo": "3.829",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "29/01/2023",
+      "valTipo": "3.824",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "29/01/2023",
+      "valTipo": "3.829",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "30/01/2023",
+      "valTipo": "3.824",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "30/01/2023",
+      "valTipo": "3.829",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "31/01/2023",
+      "valTipo": "3.853",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "31/01/2023",
+      "valTipo": "3.859",
+      "codTipo": "V"
+  },
+  {
+    "fecPublica": "01/02/2023",
+    "valTipo": "3.844",
+    "codTipo": "C"
+  },
+  {
+      "fecPublica": "01/02/2023",
+      "valTipo": "3.851",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "02/02/2023",
+      "valTipo": "3.843",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "02/02/2023",
+      "valTipo": "3.848",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "03/02/2023",
+      "valTipo": "3.830",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "03/02/2023",
+      "valTipo": "3.835",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "04/02/2023",
+      "valTipo": "3.843",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "04/02/2023",
+      "valTipo": "3.847",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "05/02/2023",
+      "valTipo": "3.843",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "05/02/2023",
+      "valTipo": "3.847",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "06/02/2023",
+      "valTipo": "3.843",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "06/02/2023",
+      "valTipo": "3.847",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "07/02/2023",
+      "valTipo": "3.849",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "07/02/2023",
+      "valTipo": "3.855",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "08/02/2023",
+      "valTipo": "3.843",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "08/02/2023",
+      "valTipo": "3.848",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "09/02/2023",
+      "valTipo": "3.852",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "09/02/2023",
+      "valTipo": "3.856",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "10/02/2023",
+      "valTipo": "3.863",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "10/02/2023",
+      "valTipo": "3.869",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "11/02/2023",
+      "valTipo": "3.853",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "11/02/2023",
+      "valTipo": "3.858",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "12/02/2023",
+      "valTipo": "3.853",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "12/02/2023",
+      "valTipo": "3.858",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "13/02/2023",
+      "valTipo": "3.853",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "13/02/2023",
+      "valTipo": "3.858",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "14/02/2023",
+      "valTipo": "3.849",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "14/02/2023",
+      "valTipo": "3.854",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "15/02/2023",
+      "valTipo": "3.858",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "15/02/2023",
+      "valTipo": "3.861",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "16/02/2023",
+      "valTipo": "3.858",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "16/02/2023",
+      "valTipo": "3.865",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "17/02/2023",
+      "valTipo": "3.862",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "17/02/2023",
+      "valTipo": "3.868",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "18/02/2023",
+      "valTipo": "3.839",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "18/02/2023",
+      "valTipo": "3.849",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "19/02/2023",
+      "valTipo": "3.839",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "19/02/2023",
+      "valTipo": "3.849",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "20/02/2023",
+      "valTipo": "3.839",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "20/02/2023",
+      "valTipo": "3.849",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "21/02/2023",
+      "valTipo": "3.840",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "21/02/2023",
+      "valTipo": "3.850",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "22/02/2023",
+      "valTipo": "3.831",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "22/02/2023",
+      "valTipo": "3.836",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "23/02/2023",
+      "valTipo": "3.821",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "23/02/2023",
+      "valTipo": "3.827",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "24/02/2023",
+      "valTipo": "3.800",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "24/02/2023",
+      "valTipo": "3.805",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "25/02/2023",
+      "valTipo": "3.810",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "25/02/2023",
+      "valTipo": "3.820",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "26/02/2023",
+      "valTipo": "3.810",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "26/02/2023",
+      "valTipo": "3.820",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "27/02/2023",
+      "valTipo": "3.810",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "27/02/2023",
+      "valTipo": "3.820",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "28/02/2023",
+      "valTipo": "3.811",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "28/02/2023",
+      "valTipo": "3.816",
+      "codTipo": "V"
+  },
+  {
+    "fecPublica": "01/03/2023",
+    "valTipo": "3.803",
+    "codTipo": "C"
+  },
+  {
+      "fecPublica": "01/03/2023",
+      "valTipo": "3.810",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "02/03/2023",
+      "valTipo": "3.779",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "02/03/2023",
+      "valTipo": "3.784",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "03/03/2023",
+      "valTipo": "3.779",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "03/03/2023",
+      "valTipo": "3.784",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "04/03/2023",
+      "valTipo": "3.782",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "04/03/2023",
+      "valTipo": "3.789",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "05/03/2023",
+      "valTipo": "3.782",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "05/03/2023",
+      "valTipo": "3.789",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "06/03/2023",
+      "valTipo": "3.782",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "06/03/2023",
+      "valTipo": "3.789",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "07/03/2023",
+      "valTipo": "3.784",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "07/03/2023",
+      "valTipo": "3.788",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "08/03/2023",
+      "valTipo": "3.784",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "08/03/2023",
+      "valTipo": "3.789",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "09/03/2023",
+      "valTipo": "3.784",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "09/03/2023",
+      "valTipo": "3.788",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "10/03/2023",
+      "valTipo": "3.788",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "10/03/2023",
+      "valTipo": "3.792",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "11/03/2023",
+      "valTipo": "3.781",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "11/03/2023",
+      "valTipo": "3.786",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "12/03/2023",
+      "valTipo": "3.781",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "12/03/2023",
+      "valTipo": "3.786",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "13/03/2023",
+      "valTipo": "3.781",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "13/03/2023",
+      "valTipo": "3.786",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "14/03/2023",
+      "valTipo": "3.798",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "14/03/2023",
+      "valTipo": "3.803",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "15/03/2023",
+      "valTipo": "3.785",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "15/03/2023",
+      "valTipo": "3.789",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "16/03/2023",
+      "valTipo": "3.804",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "16/03/2023",
+      "valTipo": "3.808",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "17/03/2023",
+      "valTipo": "3.796",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "17/03/2023",
+      "valTipo": "3.801",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "18/03/2023",
+      "valTipo": "3.792",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "18/03/2023",
+      "valTipo": "3.798",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "19/03/2023",
+      "valTipo": "3.792",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "19/03/2023",
+      "valTipo": "3.798",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "20/03/2023",
+      "valTipo": "3.792",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "20/03/2023",
+      "valTipo": "3.798",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "21/03/2023",
+      "valTipo": "3.779",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "21/03/2023",
+      "valTipo": "3.785",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "22/03/2023",
+      "valTipo": "3.765",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "22/03/2023",
+      "valTipo": "3.770",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "23/03/2023",
+      "valTipo": "3.767",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "23/03/2023",
+      "valTipo": "3.774",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "24/03/2023",
+      "valTipo": "3.762",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "24/03/2023",
+      "valTipo": "3.767",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "25/03/2023",
+      "valTipo": "3.764",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "25/03/2023",
+      "valTipo": "3.773",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "26/03/2023",
+      "valTipo": "3.764",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "26/03/2023",
+      "valTipo": "3.773",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "27/03/2023",
+      "valTipo": "3.764",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "27/03/2023",
+      "valTipo": "3.773",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "28/03/2023",
+      "valTipo": "3.765",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "28/03/2023",
+      "valTipo": "3.772",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "29/03/2023",
+      "valTipo": "3.763",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "29/03/2023",
+      "valTipo": "3.768",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "30/03/2023",
+      "valTipo": "3.755",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "30/03/2023",
+      "valTipo": "3.759",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "31/03/2023",
+      "valTipo": "3.755",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "31/03/2023",
+      "valTipo": "3.761",
+      "codTipo": "V"
+  },
+  {
+    "fecPublica": "01/04/2023",
+    "valTipo": "3.758",
+    "codTipo": "C"
+  },
+  {
+      "fecPublica": "01/04/2023",
+      "valTipo": "3.765",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "02/04/2023",
+      "valTipo": "3.758",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "02/04/2023",
+      "valTipo": "3.765",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "03/04/2023",
+      "valTipo": "3.758",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "03/04/2023",
+      "valTipo": "3.765",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "04/04/2023",
+      "valTipo": "3.764",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "04/04/2023",
+      "valTipo": "3.770",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "05/04/2023",
+      "valTipo": "3.769",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "05/04/2023",
+      "valTipo": "3.773",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "06/04/2023",
+      "valTipo": "3.769",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "06/04/2023",
+      "valTipo": "3.774",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "11/04/2023",
+      "valTipo": "3.773",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "11/04/2023",
+      "valTipo": "3.781",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "12/04/2023",
+      "valTipo": "3.783",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "12/04/2023",
+      "valTipo": "3.787",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "13/04/2023",
+      "valTipo": "3.773",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "13/04/2023",
+      "valTipo": "3.780",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "14/04/2023",
+      "valTipo": "3.774",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "14/04/2023",
+      "valTipo": "3.777",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "15/04/2023",
+      "valTipo": "3.778",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "15/04/2023",
+      "valTipo": "3.784",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "16/04/2023",
+      "valTipo": "3.778",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "16/04/2023",
+      "valTipo": "3.784",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "17/04/2023",
+      "valTipo": "3.778",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "17/04/2023",
+      "valTipo": "3.784",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "18/04/2023",
+      "valTipo": "3.779",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "18/04/2023",
+      "valTipo": "3.785",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "19/04/2023",
+      "valTipo": "3.774",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "19/04/2023",
+      "valTipo": "3.781",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "20/04/2023",
+      "valTipo": "3.774",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "20/04/2023",
+      "valTipo": "3.781",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "21/04/2023",
+      "valTipo": "3.762",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "21/04/2023",
+      "valTipo": "3.768",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "22/04/2023",
+      "valTipo": "3.762",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "22/04/2023",
+      "valTipo": "3.768",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "23/04/2023",
+      "valTipo": "3.762",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "23/04/2023",
+      "valTipo": "3.768",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "24/04/2023",
+      "valTipo": "3.762",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "24/04/2023",
+      "valTipo": "3.768",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "25/04/2023",
+      "valTipo": "3.754",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "25/04/2023",
+      "valTipo": "3.761",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "26/04/2023",
+      "valTipo": "3.752",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "26/04/2023",
+      "valTipo": "3.762",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "27/04/2023",
+      "valTipo": "3.742",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "27/04/2023",
+      "valTipo": "3.750",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "28/04/2023",
+      "valTipo": "3.731",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "28/04/2023",
+      "valTipo": "3.737",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "29/04/2023",
+      "valTipo": "3.711",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "29/04/2023",
+      "valTipo": "3.719",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "30/04/2023",
+      "valTipo": "3.711",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "30/04/2023",
+      "valTipo": "3.719",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "01/05/2023",
+      "valTipo": "3.711",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "01/05/2023",
+      "valTipo": "3.719",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "02/05/2023",
+      "valTipo": "3.711",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "02/05/2023",
+      "valTipo": "3.719",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "03/05/2023",
+      "valTipo": "3.706",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "03/05/2023",
+      "valTipo": "3.715",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "04/05/2023",
+      "valTipo": "3.704",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "04/05/2023",
+      "valTipo": "3.709",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "05/05/2023",
+      "valTipo": "3.716",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "05/05/2023",
+      "valTipo": "3.719",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "06/05/2023",
+      "valTipo": "3.709",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "06/05/2023",
+      "valTipo": "3.717",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "07/05/2023",
+      "valTipo": "3.709",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "07/05/2023",
+      "valTipo": "3.717",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "08/05/2023",
+      "valTipo": "3.709",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "08/05/2023",
+      "valTipo": "3.717",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "09/05/2023",
+      "valTipo": "3.702",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "09/05/2023",
+      "valTipo": "3.710",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "10/05/2023",
+      "valTipo": "3.698",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "10/05/2023",
+      "valTipo": "3.702",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "11/05/2023",
+      "valTipo": "3.670",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "11/05/2023",
+      "valTipo": "3.678",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "12/05/2023",
+      "valTipo": "3.675",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "12/05/2023",
+      "valTipo": "3.683",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "13/05/2023",
+      "valTipo": "3.649",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "13/05/2023",
+      "valTipo": "3.659",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "14/05/2023",
+      "valTipo": "3.649",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "14/05/2023",
+      "valTipo": "3.659",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "15/05/2023",
+      "valTipo": "3.649",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "15/05/2023",
+      "valTipo": "3.659",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "16/05/2023",
+      "valTipo": "3.656",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "16/05/2023",
+      "valTipo": "3.667",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "17/05/2023",
+      "valTipo": "3.678",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "17/05/2023",
+      "valTipo": "3.683",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "18/05/2023",
+      "valTipo": "3.691",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "18/05/2023",
+      "valTipo": "3.697",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "19/05/2023",
+      "valTipo": "3.698",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "19/05/2023",
+      "valTipo": "3.702",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "20/05/2023",
+      "valTipo": "3.688",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "20/05/2023",
+      "valTipo": "3.696",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "21/05/2023",
+      "valTipo": "3.688",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "21/05/2023",
+      "valTipo": "3.696",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "22/05/2023",
+      "valTipo": "3.688",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "22/05/2023",
+      "valTipo": "3.696",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "23/05/2023",
+      "valTipo": "3.686",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "23/05/2023",
+      "valTipo": "3.695",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "24/05/2023",
+      "valTipo": "3.689",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "24/05/2023",
+      "valTipo": "3.695",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "25/05/2023",
+      "valTipo": "3.683",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "25/05/2023",
+      "valTipo": "3.690",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "26/05/2023",
+      "valTipo": "3.692",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "26/05/2023",
+      "valTipo": "3.698",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "27/05/2023",
+      "valTipo": "3.671",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "27/05/2023",
+      "valTipo": "3.675",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "28/05/2023",
+      "valTipo": "3.671",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "28/05/2023",
+      "valTipo": "3.675",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "29/05/2023",
+      "valTipo": "3.671",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "29/05/2023",
+      "valTipo": "3.675",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "30/05/2023",
+      "valTipo": "3.667",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "30/05/2023",
+      "valTipo": "3.680",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "31/05/2023",
+      "valTipo": "3.671",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "31/05/2023",
+      "valTipo": "3.677",
+      "codTipo": "V"
+  },
+  {
+    "fecPublica": "01/06/2023",
+    "valTipo": "3.675",
+    "codTipo": "C"
+  },
+  {
+      "fecPublica": "01/06/2023",
+      "valTipo": "3.682",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "02/06/2023",
+      "valTipo": "3.676",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "02/06/2023",
+      "valTipo": "3.684",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "03/06/2023",
+      "valTipo": "3.682",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "03/06/2023",
+      "valTipo": "3.688",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "04/06/2023",
+      "valTipo": "3.682",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "04/06/2023",
+      "valTipo": "3.688",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "05/06/2023",
+      "valTipo": "3.682",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "05/06/2023",
+      "valTipo": "3.688",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "06/06/2023",
+      "valTipo": "3.673",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "06/06/2023",
+      "valTipo": "3.680",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "07/06/2023",
+      "valTipo": "3.687",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "07/06/2023",
+      "valTipo": "3.691",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "08/06/2023",
+      "valTipo": "3.671",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "08/06/2023",
+      "valTipo": "3.674",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "09/06/2023",
+      "valTipo": "3.655",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "09/06/2023",
+      "valTipo": "3.661",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "10/06/2023",
+      "valTipo": "3.641",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "10/06/2023",
+      "valTipo": "3.646",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "11/06/2023",
+      "valTipo": "3.641",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "11/06/2023",
+      "valTipo": "3.646",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "12/06/2023",
+      "valTipo": "3.641",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "12/06/2023",
+      "valTipo": "3.646",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "13/06/2023",
+      "valTipo": "3.650",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "13/06/2023",
+      "valTipo": "3.658",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "14/06/2023",
+      "valTipo": "3.641",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "14/06/2023",
+      "valTipo": "3.648",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "15/06/2023",
+      "valTipo": "3.646",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "15/06/2023",
+      "valTipo": "3.652",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "16/06/2023",
+      "valTipo": "3.648",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "16/06/2023",
+      "valTipo": "3.654",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "17/06/2023",
+      "valTipo": "3.631",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "17/06/2023",
+      "valTipo": "3.645",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "18/06/2023",
+      "valTipo": "3.631",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "18/06/2023",
+      "valTipo": "3.645",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "19/06/2023",
+      "valTipo": "3.631",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "19/06/2023",
+      "valTipo": "3.645",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "20/06/2023",
+      "valTipo": "3.629",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "20/06/2023",
+      "valTipo": "3.647",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "21/06/2023",
+      "valTipo": "3.641",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "21/06/2023",
+      "valTipo": "3.648",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "22/06/2023",
+      "valTipo": "3.640",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "22/06/2023",
+      "valTipo": "3.645",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "23/06/2023",
+      "valTipo": "3.634",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "23/06/2023",
+      "valTipo": "3.641",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "24/06/2023",
+      "valTipo": "3.628",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "24/06/2023",
+      "valTipo": "3.638",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "25/06/2023",
+      "valTipo": "3.628",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "25/06/2023",
+      "valTipo": "3.638",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "26/06/2023",
+      "valTipo": "3.628",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "26/06/2023",
+      "valTipo": "3.638",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "27/06/2023",
+      "valTipo": "3.635",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "27/06/2023",
+      "valTipo": "3.642",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "28/06/2023",
+      "valTipo": "3.633",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "28/06/2023",
+      "valTipo": "3.640",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "29/06/2023",
+      "valTipo": "3.628",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "29/06/2023",
+      "valTipo": "3.636",
+      "codTipo": "V"
+  },
+  {
+      "fecPublica": "30/06/2023",
+      "valTipo": "3.628",
+      "codTipo": "C"
+  },
+  {
+      "fecPublica": "30/06/2023",
+      "valTipo": "3.636",
+      "codTipo": "V"
+  },
+  {
+    "fecPublica": "01/07/2023",
+    "valTipo": "3.624",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "01/07/2023",
+    "valTipo": "3.633",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "02/07/2023",
+    "valTipo": "3.624",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "02/07/2023",
+    "valTipo": "3.633",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "03/07/2023",
+    "valTipo": "3.624",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "03/07/2023",
+    "valTipo": "3.633",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "04/07/2023",
+    "valTipo": "3.621",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "04/07/2023",
+    "valTipo": "3.630",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "05/07/2023",
+    "valTipo": "3.624",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "05/07/2023",
+    "valTipo": "3.634",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "06/07/2023",
+    "valTipo": "3.627",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "06/07/2023",
+    "valTipo": "3.633",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "07/07/2023",
+    "valTipo": "3.641",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "07/07/2023",
+    "valTipo": "3.648",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "08/07/2023",
+    "valTipo": "3.637",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "08/07/2023",
+    "valTipo": "3.643",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "09/07/2023",
+    "valTipo": "3.637",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "09/07/2023",
+    "valTipo": "3.643",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "10/07/2023",
+    "valTipo": "3.637",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "10/07/2023",
+    "valTipo": "3.643",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "11/07/2023",
+    "valTipo": "3.636",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "11/07/2023",
+    "valTipo": "3.643",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "12/07/2023",
+    "valTipo": "3.632",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "12/07/2023",
+    "valTipo": "3.638",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "13/07/2023",
+    "valTipo": "3.588",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "13/07/2023",
+    "valTipo": "3.599",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "14/07/2023",
+    "valTipo": "3.565",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "14/07/2023",
+    "valTipo": "3.573",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "15/07/2023",
+    "valTipo": "3.558",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "15/07/2023",
+    "valTipo": "3.567",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "16/07/2023",
+    "valTipo": "3.558",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "16/07/2023",
+    "valTipo": "3.567",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "17/07/2023",
+    "valTipo": "3.558",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "17/07/2023",
+    "valTipo": "3.567",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "18/07/2023",
+    "valTipo": "3.555",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "18/07/2023",
+    "valTipo": "3.570",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "19/07/2023",
+    "valTipo": "3.552",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "19/07/2023",
+    "valTipo": "3.557",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "20/07/2023",
+    "valTipo": "3.571",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "20/07/2023",
+    "valTipo": "3.589",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "21/07/2023",
+    "valTipo": "3.583",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "21/07/2023",
+    "valTipo": "3.592",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "22/07/2023",
+    "valTipo": "3.580",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "22/07/2023",
+    "valTipo": "3.591",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "23/07/2023",
+    "valTipo": "3.580",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "23/07/2023",
+    "valTipo": "3.591",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "24/07/2023",
+    "valTipo": "3.580",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "24/07/2023",
+    "valTipo": "3.591",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "25/07/2023",
+    "valTipo": "3.581",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "25/07/2023",
+    "valTipo": "3.588",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "26/07/2023",
+    "valTipo": "3.596",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "26/07/2023",
+    "valTipo": "3.604",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "27/07/2023",
+    "valTipo": "3.595",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "27/07/2023",
+    "valTipo": "3.602",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "28/07/2023",
+    "valTipo": "3.591",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "28/07/2023",
+    "valTipo": "3.602",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "29/07/2023",
+    "valTipo": "3.591",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "29/07/2023",
+    "valTipo": "3.602",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "30/07/2023",
+    "valTipo": "3.591",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "30/07/2023",
+    "valTipo": "3.602",
+    "codTipo": "V"
+},
+{
+    "fecPublica": "31/07/2023",
+    "valTipo": "3.591",
+    "codTipo": "C"
+},
+{
+    "fecPublica": "31/07/2023",
+    "valTipo": "3.602",
+    "codTipo": "V"
+},
+{
+  "fecPublica": "01/08/2023",
+  "valTipo": "3.602",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "01/08/2023",
+  "valTipo": "3.614",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "02/08/2023",
+  "valTipo": "3.624",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "02/08/2023",
+  "valTipo": "3.634",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "03/08/2023",
+  "valTipo": "3.655",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "03/08/2023",
+  "valTipo": "3.661",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "04/08/2023",
+  "valTipo": "3.690",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "04/08/2023",
+  "valTipo": "3.696",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "05/08/2023",
+  "valTipo": "3.687",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "05/08/2023",
+  "valTipo": "3.692",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "06/08/2023",
+  "valTipo": "3.687",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "06/08/2023",
+  "valTipo": "3.692",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "07/08/2023",
+  "valTipo": "3.687",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "07/08/2023",
+  "valTipo": "3.692",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "08/08/2023",
+  "valTipo": "3.686",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "08/08/2023",
+  "valTipo": "3.694",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "09/08/2023",
+  "valTipo": "3.704",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "09/08/2023",
+  "valTipo": "3.710",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "10/08/2023",
+  "valTipo": "3.691",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "10/08/2023",
+  "valTipo": "3.699",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "11/08/2023",
+  "valTipo": "3.672",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "11/08/2023",
+  "valTipo": "3.678",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "12/08/2023",
+  "valTipo": "3.678",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "12/08/2023",
+  "valTipo": "3.684",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "13/08/2023",
+  "valTipo": "3.678",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "13/08/2023",
+  "valTipo": "3.684",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "14/08/2023",
+  "valTipo": "3.678",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "14/08/2023",
+  "valTipo": "3.684",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "15/08/2023",
+  "valTipo": "3.695",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "15/08/2023",
+  "valTipo": "3.703",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "16/08/2023",
+  "valTipo": "3.713",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "16/08/2023",
+  "valTipo": "3.719",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "17/08/2023",
+  "valTipo": "3.710",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "17/08/2023",
+  "valTipo": "3.717",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "18/08/2023",
+  "valTipo": "3.723",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "18/08/2023",
+  "valTipo": "3.730",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "19/08/2023",
+  "valTipo": "3.712",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "19/08/2023",
+  "valTipo": "3.720",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "20/08/2023",
+  "valTipo": "3.712",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "20/08/2023",
+  "valTipo": "3.720",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "21/08/2023",
+  "valTipo": "3.712",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "21/08/2023",
+  "valTipo": "3.720",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "22/08/2023",
+  "valTipo": "3.711",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "22/08/2023",
+  "valTipo": "3.722",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "23/08/2023",
+  "valTipo": "3.724",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "23/08/2023",
+  "valTipo": "3.729",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "24/08/2023",
+  "valTipo": "3.709",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "24/08/2023",
+  "valTipo": "3.716",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "25/08/2023",
+  "valTipo": "3.695",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "25/08/2023",
+  "valTipo": "3.701",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "26/08/2023",
+  "valTipo": "3.690",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "26/08/2023",
+  "valTipo": "3.699",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "27/08/2023",
+  "valTipo": "3.690",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "27/08/2023",
+  "valTipo": "3.699",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "28/08/2023",
+  "valTipo": "3.690",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "28/08/2023",
+  "valTipo": "3.699",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "29/08/2023",
+  "valTipo": "3.691",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "29/08/2023",
+  "valTipo": "3.699",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "30/08/2023",
+  "valTipo": "3.689",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "30/08/2023",
+  "valTipo": "3.696",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "31/08/2023",
+  "valTipo": "3.689",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "31/08/2023",
+  "valTipo": "3.696",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "01/09/2023",
+  "valTipo": "3.692",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "01/09/2023",
+  "valTipo": "3.699",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "02/09/2023",
+  "valTipo": "3.688",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "02/09/2023",
+  "valTipo": "3.695",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "03/09/2023",
+  "valTipo": "3.688",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "03/09/2023",
+  "valTipo": "3.695",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "04/09/2023",
+  "valTipo": "3.688",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "04/09/2023",
+  "valTipo": "3.695",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "05/09/2023",
+  "valTipo": "3.680",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "05/09/2023",
+  "valTipo": "3.698",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "06/09/2023",
+  "valTipo": "3.703",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "06/09/2023",
+  "valTipo": "3.709",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "07/09/2023",
+  "valTipo": "3.703",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "07/09/2023",
+  "valTipo": "3.708",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "08/09/2023",
+  "valTipo": "3.708",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "08/09/2023",
+  "valTipo": "3.713",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "09/09/2023",
+  "valTipo": "3.712",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "09/09/2023",
+  "valTipo": "3.716",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "10/09/2023",
+  "valTipo": "3.712",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "10/09/2023",
+  "valTipo": "3.716",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "11/09/2023",
+  "valTipo": "3.712",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "11/09/2023",
+  "valTipo": "3.716",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "12/09/2023",
+  "valTipo": "3.696",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "12/09/2023",
+  "valTipo": "3.704",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "13/09/2023",
+  "valTipo": "3.701",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "13/09/2023",
+  "valTipo": "3.708",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "14/09/2023",
+  "valTipo": "3.701",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "14/09/2023",
+  "valTipo": "3.706",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "15/09/2023",
+  "valTipo": "3.707",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "15/09/2023",
+  "valTipo": "3.712",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "16/09/2023",
+  "valTipo": "3.716",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "16/09/2023",
+  "valTipo": "3.722",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "17/09/2023",
+  "valTipo": "3.716",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "17/09/2023",
+  "valTipo": "3.722",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "18/09/2023",
+  "valTipo": "3.716",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "18/09/2023",
+  "valTipo": "3.722",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "19/09/2023",
+  "valTipo": "3.704",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "19/09/2023",
+  "valTipo": "3.714",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "20/09/2023",
+  "valTipo": "3.711",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "20/09/2023",
+  "valTipo": "3.717",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "21/09/2023",
+  "valTipo": "3.712",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "21/09/2023",
+  "valTipo": "3.718",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "22/09/2023",
+  "valTipo": "3.738",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "22/09/2023",
+  "valTipo": "3.744",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "23/09/2023",
+  "valTipo": "3.744",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "23/09/2023",
+  "valTipo": "3.748",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "24/09/2023",
+  "valTipo": "3.744",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "24/09/2023",
+  "valTipo": "3.748",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "25/09/2023",
+  "valTipo": "3.744",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "25/09/2023",
+  "valTipo": "3.748",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "26/09/2023",
+  "valTipo": "3.765",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "26/09/2023",
+  "valTipo": "3.773",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "27/09/2023",
+  "valTipo": "3.779",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "27/09/2023",
+  "valTipo": "3.787",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "28/09/2023",
+  "valTipo": "3.793",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "28/09/2023",
+  "valTipo": "3.799",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "29/09/2023",
+  "valTipo": "3.801",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "29/09/2023",
+  "valTipo": "3.806",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "30/09/2023",
+  "valTipo": "3.790",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "30/09/2023",
+  "valTipo": "3.797",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "01/10/2023",
+  "valTipo": "3.790",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "01/10/2023",
+  "valTipo": "3.797",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "02/10/2023",
+  "valTipo": "3.790",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "02/10/2023",
+  "valTipo": "3.797",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "03/10/2023",
+  "valTipo": "3.793",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "03/10/2023",
+  "valTipo": "3.807",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "04/10/2023",
+  "valTipo": "3.806",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "04/10/2023",
+  "valTipo": "3.812",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "05/10/2023",
+  "valTipo": "3.813",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "05/10/2023",
+  "valTipo": "3.818",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "06/10/2023",
+  "valTipo": "3.819",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "06/10/2023",
+  "valTipo": "3.826",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "07/10/2023",
+  "valTipo": "3.823",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "07/10/2023",
+  "valTipo": "3.828",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "08/10/2023",
+  "valTipo": "3.823",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "08/10/2023",
+  "valTipo": "3.828",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "09/10/2023",
+  "valTipo": "3.823",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "09/10/2023",
+  "valTipo": "3.828",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "10/10/2023",
+  "valTipo": "3.826",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "10/10/2023",
+  "valTipo": "3.837",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "11/10/2023",
+  "valTipo": "3.820",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "11/10/2023",
+  "valTipo": "3.828",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "12/10/2023",
+  "valTipo": "3.822",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "12/10/2023",
+  "valTipo": "3.826",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "13/10/2023",
+  "valTipo": "3.836",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "13/10/2023",
+  "valTipo": "3.841",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "14/10/2023",
+  "valTipo": "3.842",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "14/10/2023",
+  "valTipo": "3.850",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "15/10/2023",
+  "valTipo": "3.842",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "15/10/2023",
+  "valTipo": "3.850",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "16/10/2023",
+  "valTipo": "3.842",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "16/10/2023",
+  "valTipo": "3.850",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "17/10/2023",
+  "valTipo": "3.853",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "17/10/2023",
+  "valTipo": "3.859",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "18/10/2023",
+  "valTipo": "3.854",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "18/10/2023",
+  "valTipo": "3.861",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "19/10/2023",
+  "valTipo": "3.864",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "19/10/2023",
+  "valTipo": "3.872",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "20/10/2023",
+  "valTipo": "3.868",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "20/10/2023",
+  "valTipo": "3.873",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "21/10/2023",
+  "valTipo": "3.867",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "21/10/2023",
+  "valTipo": "3.876",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "22/10/2023",
+  "valTipo": "3.867",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "22/10/2023",
+  "valTipo": "3.876",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "23/10/2023",
+  "valTipo": "3.867",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "23/10/2023",
+  "valTipo": "3.876",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "24/10/2023",
+  "valTipo": "3.867",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "24/10/2023",
+  "valTipo": "3.877",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "25/10/2023",
+  "valTipo": "3.862",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "25/10/2023",
+  "valTipo": "3.870",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "26/10/2023",
+  "valTipo": "3.866",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "26/10/2023",
+  "valTipo": "3.871",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "27/10/2023",
+  "valTipo": "3.865",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "27/10/2023",
+  "valTipo": "3.872",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "28/10/2023",
+  "valTipo": "3.856",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "28/10/2023",
+  "valTipo": "3.863",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "29/10/2023",
+  "valTipo": "3.856",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "29/10/2023",
+  "valTipo": "3.863",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "30/10/2023",
+  "valTipo": "3.856",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "30/10/2023",
+  "valTipo": "3.863",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "31/10/2023",
+  "valTipo": "3.840",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "31/10/2023",
+  "valTipo": "3.851",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "01/11/2023",
+  "valTipo": "3.832",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "01/11/2023",
+  "valTipo": "3.842",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "02/11/2023",
+  "valTipo": "3.832",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "02/11/2023",
+  "valTipo": "3.842",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "03/11/2023",
+  "valTipo": "3.797",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "03/11/2023",
+  "valTipo": "3.807",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "04/11/2023",
+  "valTipo": "3.749",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "04/11/2023",
+  "valTipo": "3.759",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "05/11/2023",
+  "valTipo": "3.749",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "05/11/2023",
+  "valTipo": "3.759",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "06/11/2023",
+  "valTipo": "3.749",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "06/11/2023",
+  "valTipo": "3.759",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "07/11/2023",
+  "valTipo": "3.754",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "07/11/2023",
+  "valTipo": "3.765",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "08/11/2023",
+  "valTipo": "3.769",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "08/11/2023",
+  "valTipo": "3.775",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "09/11/2023",
+  "valTipo": "3.793",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "09/11/2023",
+  "valTipo": "3.797",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "10/11/2023",
+  "valTipo": "3.790",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "10/11/2023",
+  "valTipo": "3.797",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "11/11/2023",
+  "valTipo": "3.806",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "11/11/2023",
+  "valTipo": "3.813",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "12/11/2023",
+  "valTipo": "3.806",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "12/11/2023",
+  "valTipo": "3.813",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "13/11/2023",
+  "valTipo": "3.806",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "13/11/2023",
+  "valTipo": "3.813",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "14/11/2023",
+  "valTipo": "3.808",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "14/11/2023",
+  "valTipo": "3.813",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "15/11/2023",
+  "valTipo": "3.765",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "15/11/2023",
+  "valTipo": "3.777",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "16/11/2023",
+  "valTipo": "3.769",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "16/11/2023",
+  "valTipo": "3.775",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "17/11/2023",
+  "valTipo": "3.767",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "17/11/2023",
+  "valTipo": "3.772",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "18/11/2023",
+  "valTipo": "3.768",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "18/11/2023",
+  "valTipo": "3.775",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "19/11/2023",
+  "valTipo": "3.768",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "19/11/2023",
+  "valTipo": "3.775",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "20/11/2023",
+  "valTipo": "3.768",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "20/11/2023",
+  "valTipo": "3.775",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "21/11/2023",
+  "valTipo": "3.740",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "21/11/2023",
+  "valTipo": "3.749",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "22/11/2023",
+  "valTipo": "3.738",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "22/11/2023",
+  "valTipo": "3.745",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "23/11/2023",
+  "valTipo": "3.740",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "23/11/2023",
+  "valTipo": "3.746",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "24/11/2023",
+  "valTipo": "3.732",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "24/11/2023",
+  "valTipo": "3.741",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "25/11/2023",
+  "valTipo": "3.728",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "25/11/2023",
+  "valTipo": "3.739",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "26/11/2023",
+  "valTipo": "3.728",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "26/11/2023",
+  "valTipo": "3.739",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "27/11/2023",
+  "valTipo": "3.728",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "27/11/2023",
+  "valTipo": "3.739",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "28/11/2023",
+  "valTipo": "3.717",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "28/11/2023",
+  "valTipo": "3.729",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "29/11/2023",
+  "valTipo": "3.725",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "29/11/2023",
+  "valTipo": "3.732",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "30/11/2023",
+  "valTipo": "3.729",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "30/11/2023",
+  "valTipo": "3.737",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "01/12/2023",
+  "valTipo": "3.733",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "01/12/2023",
+  "valTipo": "3.739",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "02/12/2023",
+  "valTipo": "3.729",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "02/12/2023",
+  "valTipo": "3.737",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "03/12/2023",
+  "valTipo": "3.729",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "03/12/2023",
+  "valTipo": "3.737",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "04/12/2023",
+  "valTipo": "3.729",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "04/12/2023",
+  "valTipo": "3.737",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "05/12/2023",
+  "valTipo": "3.738",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "05/12/2023",
+  "valTipo": "3.744",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "06/12/2023",
+  "valTipo": "3.751",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "06/12/2023",
+  "valTipo": "3.755",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "07/12/2023",
+  "valTipo": "3.751",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "07/12/2023",
+  "valTipo": "3.757",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "08/12/2023",
+  "valTipo": "3.749",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "08/12/2023",
+  "valTipo": "3.757",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "09/12/2023",
+  "valTipo": "3.749",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "09/12/2023",
+  "valTipo": "3.757",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "10/12/2023",
+  "valTipo": "3.749",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "10/12/2023",
+  "valTipo": "3.757",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "11/12/2023",
+  "valTipo": "3.749",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "11/12/2023",
+  "valTipo": "3.757",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "12/12/2023",
+  "valTipo": "3.762",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "12/12/2023",
+  "valTipo": "3.774",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "13/12/2023",
+  "valTipo": "3.772",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "13/12/2023",
+  "valTipo": "3.778",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "14/12/2023",
+  "valTipo": "3.781",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "14/12/2023",
+  "valTipo": "3.785",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "15/12/2023",
+  "valTipo": "3.763",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "15/12/2023",
+  "valTipo": "3.772",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "16/12/2023",
+  "valTipo": "3.756",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "16/12/2023",
+  "valTipo": "3.771",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "17/12/2023",
+  "valTipo": "3.756",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "17/12/2023",
+  "valTipo": "3.771",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "18/12/2023",
+  "valTipo": "3.756",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "18/12/2023",
+  "valTipo": "3.771",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "19/12/2023",
+  "valTipo": "3.742",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "19/12/2023",
+  "valTipo": "3.756",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "20/12/2023",
+  "valTipo": "3.712",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "20/12/2023",
+  "valTipo": "3.719",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "21/12/2023",
+  "valTipo": "3.702",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "21/12/2023",
+  "valTipo": "3.712",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "22/12/2023",
+  "valTipo": "3.702",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "22/12/2023",
+  "valTipo": "3.709",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "23/12/2023",
+  "valTipo": "3.682",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "23/12/2023",
+  "valTipo": "3.690",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "24/12/2023",
+  "valTipo": "3.682",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "24/12/2023",
+  "valTipo": "3.690",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "25/12/2023",
+  "valTipo": "3.682",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "25/12/2023",
+  "valTipo": "3.690",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "26/12/2023",
+  "valTipo": "3.682",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "26/12/2023",
+  "valTipo": "3.690",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "27/12/2023",
+  "valTipo": "3.677",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "27/12/2023",
+  "valTipo": "3.696",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "28/12/2023",
+  "valTipo": "3.687",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "28/12/2023",
+  "valTipo": "3.694",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "29/12/2023",
+  "valTipo": "3.695",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "29/12/2023",
+  "valTipo": "3.705",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "30/12/2023",
+  "valTipo": "3.705",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "30/12/2023",
+  "valTipo": "3.713",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "31/12/2023",
+  "valTipo": "3.705",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "31/12/2023",
+  "valTipo": "3.713",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "01/01/2024",
+  "valTipo": "3.705",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "01/01/2024",
+  "valTipo": "3.713",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "02/01/2024",
+  "valTipo": "3.705",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "02/01/2024",
+  "valTipo": "3.713",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "04/01/2024",
+  "valTipo": "3.726",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "04/01/2024",
+  "valTipo": "3.738",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "05/01/2024",
+  "valTipo": "3.736",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "05/01/2024",
+  "valTipo": "3.740",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "06/01/2024",
+  "valTipo": "3.713",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "06/01/2024",
+  "valTipo": "3.723",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "07/01/2024",
+  "valTipo": "3.713",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "07/01/2024",
+  "valTipo": "3.723",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "08/01/2024",
+  "valTipo": "3.713",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "08/01/2024",
+  "valTipo": "3.723",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "09/01/2024",
+  "valTipo": "3.710",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "09/01/2024",
+  "valTipo": "3.719",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "10/01/2024",
+  "valTipo": "3.703",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "10/01/2024",
+  "valTipo": "3.708",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "11/01/2024",
+  "valTipo": "3.698",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "11/01/2024",
+  "valTipo": "3.704",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "12/01/2024",
+  "valTipo": "3.697",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "12/01/2024",
+  "valTipo": "3.703",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "13/01/2024",
+  "valTipo": "3.690",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "13/01/2024",
+  "valTipo": "3.696",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "14/01/2024",
+  "valTipo": "3.690",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "14/01/2024",
+  "valTipo": "3.696",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "15/01/2024",
+  "valTipo": "3.690",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "15/01/2024",
+  "valTipo": "3.696",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "16/01/2024",
+  "valTipo": "3.687",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "16/01/2024",
+  "valTipo": "3.704",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "17/01/2024",
+  "valTipo": "3.713",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "17/01/2024",
+  "valTipo": "3.718",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "18/01/2024",
+  "valTipo": "3.733",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "18/01/2024",
+  "valTipo": "3.739",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "19/01/2024",
+  "valTipo": "3.736",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "19/01/2024",
+  "valTipo": "3.742",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "20/01/2024",
+  "valTipo": "3.736",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "20/01/2024",
+  "valTipo": "3.743",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "21/01/2024",
+  "valTipo": "3.736",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "21/01/2024",
+  "valTipo": "3.743",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "22/01/2024",
+  "valTipo": "3.736",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "22/01/2024",
+  "valTipo": "3.743",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "23/01/2024",
+  "valTipo": "3.736",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "23/01/2024",
+  "valTipo": "3.746",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "24/01/2024",
+  "valTipo": "3.750",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "24/01/2024",
+  "valTipo": "3.755",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "25/01/2024",
+  "valTipo": "3.755",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "25/01/2024",
+  "valTipo": "3.760",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "26/01/2024",
+  "valTipo": "3.757",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "26/01/2024",
+  "valTipo": "3.765",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "27/01/2024",
+  "valTipo": "3.777",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "27/01/2024",
+  "valTipo": "3.786",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "28/01/2024",
+  "valTipo": "3.777",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "28/01/2024",
+  "valTipo": "3.786",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "29/01/2024",
+  "valTipo": "3.777",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "29/01/2024",
+  "valTipo": "3.786",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "30/01/2024",
+  "valTipo": "3.797",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "30/01/2024",
+  "valTipo": "3.807",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "31/01/2024",
+  "valTipo": "3.806",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "31/01/2024",
+  "valTipo": "3.813",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "01/02/2024",
+  "valTipo": "3.799",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "01/02/2024",
+  "valTipo": "3.808",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "02/02/2024",
+  "valTipo": "3.802",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "02/02/2024",
+  "valTipo": "3.808",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "03/02/2024",
+  "valTipo": "3.821",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "03/02/2024",
+  "valTipo": "3.829",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "04/02/2024",
+  "valTipo": "3.821",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "04/02/2024",
+  "valTipo": "3.829",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "05/02/2024",
+  "valTipo": "3.821",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "05/02/2024",
+  "valTipo": "3.829",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "06/02/2024",
+  "valTipo": "3.843",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "06/02/2024",
+  "valTipo": "3.852",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "07/02/2024",
+  "valTipo": "3.853",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "07/02/2024",
+  "valTipo": "3.858",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "08/02/2024",
+  "valTipo": "3.865",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "08/02/2024",
+  "valTipo": "3.868",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "09/02/2024",
+  "valTipo": "3.850",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "09/02/2024",
+  "valTipo": "3.854",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "10/02/2024",
+  "valTipo": "3.860",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "10/02/2024",
+  "valTipo": "3.868",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "11/02/2024",
+  "valTipo": "3.860",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "11/02/2024",
+  "valTipo": "3.868",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "12/02/2024",
+  "valTipo": "3.860",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "12/02/2024",
+  "valTipo": "3.868",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "13/02/2024",
+  "valTipo": "3.861",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "13/02/2024",
+  "valTipo": "3.869",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "14/02/2024",
+  "valTipo": "3.877",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "14/02/2024",
+  "valTipo": "3.883",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "15/02/2024",
+  "valTipo": "3.870",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "15/02/2024",
+  "valTipo": "3.877",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "16/02/2024",
+  "valTipo": "3.864",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "16/02/2024",
+  "valTipo": "3.870",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "17/02/2024",
+  "valTipo": "3.826",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "17/02/2024",
+  "valTipo": "3.844",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "18/02/2024",
+  "valTipo": "3.826",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "18/02/2024",
+  "valTipo": "3.844",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "19/02/2024",
+  "valTipo": "3.826",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "19/02/2024",
+  "valTipo": "3.844",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "20/02/2024",
+  "valTipo": "3.795",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "20/02/2024",
+  "valTipo": "3.807",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "21/02/2024",
+  "valTipo": "3.777",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "21/02/2024",
+  "valTipo": "3.784",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "22/02/2024",
+  "valTipo": "3.789",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "22/02/2024",
+  "valTipo": "3.797",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "23/02/2024",
+  "valTipo": "3.803",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "23/02/2024",
+  "valTipo": "3.807",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "24/02/2024",
+  "valTipo": "3.794",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "24/02/2024",
+  "valTipo": "3.799",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "25/02/2024",
+  "valTipo": "3.794",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "25/02/2024",
+  "valTipo": "3.799",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "26/02/2024",
+  "valTipo": "3.794",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "26/02/2024",
+  "valTipo": "3.799",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "27/02/2024",
+  "valTipo": "3.793",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "27/02/2024",
+  "valTipo": "3.803",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "28/02/2024",
+  "valTipo": "3.787",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "28/02/2024",
+  "valTipo": "3.793",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "29/02/2024",
+  "valTipo": "3.790",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "29/02/2024",
+  "valTipo": "3.797",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "01/03/2024",
+  "valTipo": "3.778",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "01/03/2024",
+  "valTipo": "3.782",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "02/03/2024",
+  "valTipo": "3.768",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "02/03/2024",
+  "valTipo": "3.773",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "05/03/2024",
+  "valTipo": "3.762",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "05/03/2024",
+  "valTipo": "3.771",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "06/03/2024",
+  "valTipo": "3.764",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "06/03/2024",
+  "valTipo": "3.770",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "07/03/2024",
+  "valTipo": "3.730",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "07/03/2024",
+  "valTipo": "3.736",
+  "codTipo": "V"
+},
+{
+  "fecPublica": "08/03/2024",
+  "valTipo": "3.721",
+  "codTipo": "C"
+},
+{
+  "fecPublica": "08/03/2024",
+  "valTipo": "3.726",
+  "codTipo": "V"
+}
+]
